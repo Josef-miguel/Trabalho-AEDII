@@ -1,2 +1,5 @@
 # Trabalho-AEDII
 Simulador de ataques cibernéticos e detecção de intrusões (IDS) em C. Simula força bruta, port scan, DoS e SQL Injection contra uma rede virtual e avalia a eficiência das defesas.
+CyberLab é um sistema de simulação de ataques cibernéticos e detecção de intrusões desenvolvido em linguagem C. O programa cria uma rede virtual de hosts conectados, executa ataques controlados (força bruta, port scan, DoS e SQL Injection) e aplica regras de defesa (IDS) para detectá-los e bloqueá-los. Todos os eventos são registrados em log, e o sistema gera um relatório final com a taxa de detecção e as estatísticas por tipo de ataque.
+Tudo é simulação: nenhum ataque real é executado e nenhum pacote é enviado pela rede.
+Projeto acadêmico desenvolvido por Miguel, Matheus e Henry, aplicando ponteiros, alocação dinâmica, vetores, matrizes, strings, funções, estruturas e manipulação de arquivos.
