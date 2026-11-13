@@ -1,0 +1,1 @@
+Aqui ficam os teste de integração entre cada uma das partes, este arquivo será removido após o termino do trabalho
